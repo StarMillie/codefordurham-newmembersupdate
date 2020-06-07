@@ -1,6 +1,6 @@
 # codefordurham-newmembersupdate
 
-In April 2020 the group decided to have a few Design Thinking sessions to determine how to improve the new member and onboarding process. Design Thinking sessions are a way to get everyone in a group to share their ideas, identify common pain points, generate ideas for solutions, and come to a concensus about the next steps. A summary of the sessions and outcomes appears below, and the details can be found in the .xsls file in this repository. 
+In April 2020 the group decided to have a few Design Thinking sessions to determine how to improve the new member and onboarding process. Design Thinking sessions are a way to get everyone in a group to share their ideas, identify common pain points, generate ideas for solutions, and come to a consensus about the next steps. A summary of the sessions and outcomes appears below, and the details can be found in the .xsls file in this repository. 
 
 **Objective:**
 Identify steps to improve the project onboarding experience for new and repeat members so people feel welcome, are able to contribute, and inspired to return.	
